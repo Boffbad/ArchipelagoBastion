@@ -1,0 +1,9 @@
+[
+    {
+        "fromId": "firstLevel",
+        "toId": "secondLevel",
+        "twoWay": true,
+        "requiredItems": [
+        ]
+    }
+]

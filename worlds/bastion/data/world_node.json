@@ -1,0 +1,14 @@
+{
+  "firstLevel": {
+    "name": "First Level",
+    "hints": [
+      "Test hint"
+    ]
+  },
+  "secondLevel": {
+    "name": "Second Level",
+    "hints": [
+      "Test hint 2"
+    ]
+  }
+}

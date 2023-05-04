@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Hammer",
+        "type": "ground",
+        "nodeId": "firstLevel"
+    },
+    {
+        "name": "Repeater",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "Shield",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "Bow",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "Barrette de crystal",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "Longbow_Plant_1",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "7",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "8",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "9",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "10",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "11",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "12",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "13",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "14",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "15",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "16",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "17",
+        "type": "ground",
+        "nodeId": "firstLevel"
+    },
+    {
+        "name": "18",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "19",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "20",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "21",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "22",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "23",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "24",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "25",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "26",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "27",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "28",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "29",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "30",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "31",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "32",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "33",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "34",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "35",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "36",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "37",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "38",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "39",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "40",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "41",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "42",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "43",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "44",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "45",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "46",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "47",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "48",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "49",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "50",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "51",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "52",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "53",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "54",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "55",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "56",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "57",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "58",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "59",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "60",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "61",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "62",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "63",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "64",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "65",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "66",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "67",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "68",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "69",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "70",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "71",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "72",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "73",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    },
+    {
+        "name": "74",
+        "type": "ground",
+        "nodeId": "secondLevel"
+    }
+]
